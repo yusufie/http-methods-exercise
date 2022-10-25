@@ -1,0 +1,11 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: aqua;
+}
+
+button:hover {
+  color: white;
+  background-color: red;
+  transform: scale(1.3);
+}
